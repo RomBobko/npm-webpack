@@ -1,0 +1,25 @@
+{
+  "name": "npm-webpack",
+  "version": "1.0.0",
+  "description": "npm basics",
+  "homepage": "https://github.com/RomBobko/npm-webpack#readme",
+  "bugs": {
+    "url": "https://github.com/RomBobko/npm-webpack/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomBobko/npm-webpack.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "joi": "^18.0.1",
+    "uuid.v4": "^1.0.0"
+  }
+}
